@@ -14,12 +14,6 @@ This app uses the [WeatherAPI](https://www.weatherapi.com/) to fetch real-time w
 
 ---
 
-## 🚀 Live Demo
-
-You can try the app live here: [Add your deployed link here]
-
----
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -43,7 +37,7 @@ weather-app/ │ ├── index.html # Main HTML file ├── style.css # Sty
    ```bash
    git clone https://github.com/your-username/weather-app.git
 2. Navigate to the project folder:
-     cd weather-app
+3.     cd weather-app
 
 
 
@@ -52,3 +46,4 @@ weather-app/ │ ├── index.html # Main HTML file ├── style.css # Sty
 
 ![Screenshot 2025-04-09 235437](https://github.com/user-attachments/assets/c5e4dd2a-47f5-4bd9-a3ec-93873ec8ef17)
 
+---
