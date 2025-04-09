@@ -37,7 +37,7 @@ weather-app/ │ ├── index.html # Main HTML file ├── style.css # Sty
    ```bash
    git clone https://github.com/your-username/weather-app.git
 2. Navigate to the project folder:
-3.     cd weather-app
+3.       cd weather-app
 
 
 
