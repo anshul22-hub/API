@@ -1,10 +1,3 @@
-Here's a clean and professional `README.md` you can use for your **Weather App** GitHub project:
-
----
-
-### 📄 `README.md`
-
-```markdown
 # 🌤️ Weather App
 
 A simple and responsive weather web application built with HTML, CSS, and JavaScript.  
@@ -38,14 +31,9 @@ You can try the app live here: [Add your deployed link here]
 
 ## 📦 Project Structure
 
-```
-weather-app/
-│
-├── index.html          # Main HTML file
-├── style.css           # Styling file
-├── script.js           # JavaScript for API and logic
-└── README.md           # Project documentation
-```
+weather-app/ │ ├── index.html # Main HTML file ├── style.css # Styling file ├── script.js # JavaScript for API and logic └── README.md # Project documentation
+
+
 
 ---
 
@@ -54,45 +42,13 @@ weather-app/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/weather-app.git
-   ```
 2. Navigate to the project folder:
-   ```bash
-   cd weather-app
-   ```
-3. Open `index.html` in your browser.
+     cd weather-app
 
----
 
-## 🔑 API Used
 
-This app uses [WeatherAPI](https://www.weatherapi.com/) with the following endpoint:
 
-```
-http://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=LOCATION
-```
+📸 Preview
 
-> ⚠️ Replace `YOUR_API_KEY` with your actual API key.
+![Screenshot 2025-04-09 235437](https://github.com/user-attachments/assets/c5e4dd2a-47f5-4bd9-a3ec-93873ec8ef17)
 
----
-
-## 📸 Preview
-
-![Weather App Screenshot](assets/screenshot.png) <!-- Add a screenshot in assets folder -->
-
----
-
-## 🙌 Author
-
-**Piyush** – [GitHub](https://github.com/your-username)  
-Built with 💙 for learning and practice.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-```
-
----
-
-Would you like me to generate a screenshot for the preview section or help you write the `LICENSE` file too?
